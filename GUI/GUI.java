@@ -709,7 +709,7 @@ public class GUI extends javax.swing.JFrame {
 
     private void selesaiActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_selesaiActionPerformed
         // TODO add your handling code here:
-        System.exit(0);s
+        System.exit(0);
     }//GEN-LAST:event_selesaiActionPerformed
 
     /**
